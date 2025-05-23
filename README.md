@@ -4,6 +4,7 @@ Predict machine failures (binary + multiclass) and identify failure types. Using
 🔧 Predictive Maintenance Using AI/ML
 
 Project Type: Machine Learning (Binary & Multiclass Classification)
+
 Tools & Libraries: Python, Pandas, Matplotlib, Seaborn, (AI Tools: Scikit-learn, XGBoost)
 
 📌 Project Goal
