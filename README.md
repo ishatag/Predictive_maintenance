@@ -1,5 +1,5 @@
 # Predictive_maintenance
-Predict machine failures (binary + multiclass) and identify failure types. Using the analysis, provide a summary to stakeholders.
+Predict machine failures (binary + multiclass) and identify failure types. Using the analysis, my aim is to provide a summary to stakeholders.
 
 🔧 Predictive Maintenance Using AI/ML
 
